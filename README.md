@@ -9,7 +9,7 @@
 - [Business Objective](#business-objective)
 - [Business Question](#business-question)
 - [Dataset Description](#dataset-description)
-- [Tools & Technologies Used](#tools--technologies--used)
+- [Tools & Technologies Used](#tools--technologies-used)
 - [Data Preparation & ETL](#data-preparation--etl)
 - [Dashboard Overview](#dashboard-overview)
 - [Key Insights](#key-insights)
