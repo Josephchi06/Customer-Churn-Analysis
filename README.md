@@ -13,10 +13,50 @@ Customer churn is a key challenge for banks because losing customers can affect 
 # Business Objective 
 
 The objectives of this project are to:
-•	Analyze customer churn patterns across different customer characteristics. 
-•	Identify customer segments with higher churn rates. 
-•	Examine how factors such as age, gender, activity status, number of products, tenure, and geography relate to customer churn. 
-•	Develop an interactive Power BI dashboard to monitor and explore churn patterns. 
-•	Provide actionable recommendations that can help the bank strengthen customer retention.
+-Analyze customer churn patterns across different customer characteristics. 
+-Identify customer segments with higher churn rates. 
+-Examine how factors such as age, gender, activity status, number of products, tenure, and geography relate to customer churn. 
+-Develop an interactive Power BI dashboard to monitor and explore churn patterns. 
+-Provide actionable recommendations that can help the bank strengthen customer retention.
+
+
+------
+
+# Dataset Description
+
+The dataset used in this project contains Banking Customer Information designed for Churn analysis. It includes customer’s information used to analyze customer churn patterns across different customer characteristics. 
+
+## Dataset Source
+The dataset was obtained from Kaggle and is publicly available for learning, analysis, and portfolio projects.
+
+Source: https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction
+
+## Dataset Features
+
+The dataset includes the following key attributes:
+-Customer ID
+-Credit Score
+-Geography
+-Age
+-No of Products
+-Gender
+-Tenure
+-Balance
+-Estimated Salary
+-IsActiveMember
+-Exited
+
+The  Exited column serves as the target variable, where:
+-1 = Exited
+-0 = Stayed
+
+The dataset was explored and analyzed using SQL Server before being imported into Power BI for data modeling, DAX calculations, and interactive dashboard development.
+
+---------
+
+# Tools & Technologies Used
+The following tools and technologies were used throughout this project
+
+
 
 
